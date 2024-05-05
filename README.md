@@ -44,3 +44,5 @@ MetaMask ： https://portfolio.metamask.io/
 然后是部署代码， 这里需要注意的选择合适的编译环境
 <img width="817" alt="image" src="https://github.com/liamamilin/BuildYourOwnCryptoCurrency/assets/24915545/7505e9ec-f202-420d-afd1-7f88e6483102">
 
+设置合适的参数，点击部署
+<img width="1063" alt="image" src="https://github.com/liamamilin/BuildYourOwnCryptoCurrency/assets/24915545/577840d0-e584-4b46-a2fa-4ef72a53d0e3">
