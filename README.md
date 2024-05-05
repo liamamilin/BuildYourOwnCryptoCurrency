@@ -46,3 +46,34 @@ MetaMask ： https://portfolio.metamask.io/
 
 设置合适的参数，点击部署
 <img width="1063" alt="image" src="https://github.com/liamamilin/BuildYourOwnCryptoCurrency/assets/24915545/577840d0-e584-4b46-a2fa-4ef72a53d0e3">
+
+
+部署会自动链接MetaMask， 有可能会提示Gas 不足， 这个时候可以修改gas 费用
+![image](https://github.com/liamamilin/BuildYourOwnCryptoCurrency/assets/24915545/c4fab258-e391-4ad6-b1ea-e2ca56844291)
+
+![image](https://github.com/liamamilin/BuildYourOwnCryptoCurrency/assets/24915545/5d2086bb-c5a0-45fb-ad46-f21d538391de)
+![image](https://github.com/liamamilin/BuildYourOwnCryptoCurrency/assets/24915545/05eddf2d-e213-4ff8-a18d-d776220294c3)
+
+
+修改好之后， 点击确认： ![image](https://github.com/liamamilin/BuildYourOwnCryptoCurrency/assets/24915545/058a3b88-991b-4ba8-bd54-22444cdaa7fc)
+
+
+等待合约执行即可， 执行完成之后， 可以查看执行结果
+
+![image](https://github.com/liamamilin/BuildYourOwnCryptoCurrency/assets/24915545/fb755798-ebb5-4f17-acd1-0e3c145ca8ca)
+
+https://pic1.zhimg.com/80/v2-3aaaafd85e9752061940cf7e046b5306_720w.png
+
+
+将发行的货币添加到钱包
+![image](https://github.com/liamamilin/BuildYourOwnCryptoCurrency/assets/24915545/f3ce5e29-8435-4431-8ea8-b8ac0f027b76)
+
+![image](https://github.com/liamamilin/BuildYourOwnCryptoCurrency/assets/24915545/33f07ee5-db17-448d-8235-68fd99d23c57)
+
+
+
+![image](https://github.com/liamamilin/BuildYourOwnCryptoCurrency/assets/24915545/ddab99b0-d6c8-4a80-b353-45b2b15f61e4)
+
+
+到这里， 就完成了区块链的发布。
+
